@@ -1,7 +1,5 @@
 kct1年
 
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=PolyChromaticLithic&count_private=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PolyChromaticLithic
-)](https://github.com/anuraghazra/github-readme-stats)
-
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=PolyChromaticLithic&count_private=true&theme=onedark)
+[![trophy](https://github-profile-trophy.vercel.app/?username=PolyChromaticLithic&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
